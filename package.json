@@ -1,9 +1,9 @@
 {
-  "name": "aerogear-cordova-push",
+  "name": "aerobase-cordova-push",
   "version": "3.2.0",
-  "description": "This plugin allows your application to receive push notifications, using the AeroGear UnifiedPush Server.",
+  "description": "This plugin allows your application to receive push notifications, using the Aerobase server.",
   "cordova": {
-    "id": "aerogear-cordova-push",
+    "id": "aerobase-cordova-push",
     "platforms": [
       "android",
       "ios",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aerogear/aerogear-cordova-push.git"
+    "url": "git+https://github.com/aerobase/aerobase-cordova-push.git"
   },
   "keywords": [
     "cordova",
-    "aerogear",
+    "aerobase",
     "push",
     "ups",
     "unified",
-    "push",
+    "notifications",
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios",
@@ -44,10 +44,10 @@
       }
     }
   },
-  "author": "edewit",
+  "author": "yanivmn",
   "license": "Apache 2.0 License",
   "bugs": {
-    "url": "https://issues.jboss.org/browse/AGCORDOVA"
+    "url": "https://aerobase.atlassian.net/projects/AC/issues/"
   },
-  "homepage": "https://aerogear.org/docs/specs/aerogear-cordova/"
+  "homepage": "https://aerobase.atlassian.net/wiki/display/ARB/Hybrid"
 }
